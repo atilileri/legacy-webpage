@@ -1,3 +1,4 @@
-My website
+## My website
 
-The theme is available as open source under the terms of the [MIT License](http://opensource.org/licenses/MIT).
+[Just the docs](https://pmarsceill.github.io/just-the-docs/) theme is used.
+
